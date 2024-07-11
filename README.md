@@ -1,7 +1,11 @@
 # Active Directory and Splunk Simulation using Kali Linux as Attack Box
 
 ## Project Overview
-This project involves setting up a simulated Active Directory environment with integrated Splunk monitoring. The setup includes multiple virtual machines (VMs) to mimic a real-world enterprise network. The project showcases how to monitor and analyze security events using Splunk, with Kali Linux serving as the attack box to simulate various attack scenarios.
+This project involves setting up a simulated Active Directory environment with integrated Splunk monitoring and sysmon to gather logs. The setup includes multiple virtual machines (VMs) to mimic a real-world enterprise network. The project showcases how to monitor and analyze security events using Splunk, with Kali Linux serving as the attack box to simulate various attack scenarios.
+
+## Flowchart
+![Active Directory](https://github.com/Tanishq404E/Active_Directory_Splunk_Simulation/assets/70007965/eaacb637-82f4-4d32-9066-4ba505445c43)
+
 
 ## Project Components
 1. **Active Directory Server**:
