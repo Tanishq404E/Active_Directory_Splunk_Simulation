@@ -41,7 +41,6 @@ All VMs are networked to create an isolated environment that allows seamless com
 2. Configure Active Directory Domain Services and DNS.
 3. Create users: Raven Fury and John Doe.
 4. Register the Windows 10 Pro client under the Raven Fury user.
-5. 
 
 ### Windows 10 Pro Client
 1. Install Windows 10 Pro.
@@ -59,10 +58,10 @@ All VMs are networked to create an isolated environment that allows seamless com
 2. Configure the network settings to communicate with the Active Directory Server, Windows 10 Pro client, and Splunk Server.
 3. Use Kali Linux tools to simulate various attack scenarios.
 
-## Usage
-1. **Monitor Security Events**: Use Splunk to monitor and analyze security events generated from the Active Directory and Windows 10 Pro client.
-2. **Simulate Attacks**: Use Kali Linux to perform attacks on the Active Directory environment and observe the logs and alerts generated in Splunk.
-3. **Incident Response**: Use the data collected in Splunk to practice incident response and forensic analysis.
+## Application
+1. **Monitor Security Events**: I used Splunk to monitor and analyze security events generated from the Active Directory and Windows 10 Pro client.
+2. **Simulate Attacks**: Kali Linux to perform attacks on the Active Directory environment and observe the logs and alerts generated in Splunk.
+3. **Incident Response**: The data collected in Splunk can be used to practice incident response and forensic analysis.
 
 ## Attack Simulation
 ### RDP Attack
